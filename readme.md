@@ -1,3 +1,16 @@
+原项目地址
+https://github.com/h2y/Shadowrocket-ADBlock-Rules
+本项目中对以下规则更新
+## 白名单过滤 + 广告
+白名单中包含了境外网站中可以访问的那些，对不确定的网站则默认代理。
+- 直连：top500 网站中可直连的境外网站、中国网站
+- 代理：默认代理其余的所有境外网站
+- 包含广告过滤
+
+https://raw.githubusercontent.com/MONsterKEYo/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf
+
+
+
 ## 最完善的 iOS 翻墙规则
 
 ### 停止更新公告
